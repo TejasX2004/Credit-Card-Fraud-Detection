@@ -72,8 +72,10 @@ The following models were trained and evaluated:
 ---
 
 ## Results
-- **Best Model**: (Replace with your findings, e.g., Random Forest Classifier showed the highest F1-Score.)
-- **Insights**: (Add any notable observations, e.g., Logistic Regression had faster training time but lower recall.)
+-
+-
+![image](https://github.com/user-attachments/assets/f9b6e555-1260-4249-992f-60c31a48d09e)
+
 
 ---
 
